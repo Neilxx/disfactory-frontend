@@ -41,7 +41,7 @@
       </div>
 
       <div class="desktop-step-item" :class="{ inactive: appState.createStepIndex < 2 }"  @click="switchStep(2)">
-        <span>上傳工廠照片</span>
+        <span>上傳黑熊出沒痕跡照片</span>
         <v-icon class='mr-1'>mdi-chevron-right</v-icon>
       </div>
 

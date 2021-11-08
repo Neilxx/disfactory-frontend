@@ -34,7 +34,7 @@
         </div>
       </div>
 
-      <h3 class="mt-7 mb-2 required primary--text">工廠照片</h3>
+      <h3 class="mt-7 mb-2 required primary--text">黑熊出沒痕跡照片</h3>
 
       <p>
         返回<a @click="gotoStepTwo">步驟(2/3)</a>編輯

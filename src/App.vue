@@ -90,7 +90,7 @@
             mdi-checkbox-marked-circle
           </v-icon>
           <v-card-title class="secondary--text justify-center">
-            補充工廠照片成功
+            補充黑熊出沒痕跡照片成功
           </v-card-title>
           <v-card-text>
             <small>
